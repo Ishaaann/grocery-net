@@ -1,8 +1,8 @@
-# GroceryNet 🛒
+# GroceryNet 
 
 GroceryNet is a location-aware, hyper-local grocery marketplace application designed to connect customers with nearby shop owners. The platform facilitates a seamless shopping experience by allowing users to browse local inventories, manage carts, and handle orders, while providing shop owners with tools to manage their digital storefronts.
 
-## 🚀 Key Features
+## Key Features
 
 ### For Customers
 * **Location-Based Discovery**: Automatically finds and displays grocery shops near the user's location.
