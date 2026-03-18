@@ -1,0 +1,7 @@
+{
+  "name": "GroceryNet",
+  "description": "A client-server architecture simulation for a multi-tenant grocery application. Features distinct shop owner and customer roles, atomic inventory management, and geolocation-based delivery estimation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
