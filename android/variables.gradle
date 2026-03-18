@@ -1,0 +1,21 @@
+ext {
+    minSdkVersion = 22
+    // Downgrade from 36 to 35 (AGP 8.7.3 supports up to 35)
+    compileSdkVersion = 35
+    targetSdkVersion = 35
+
+    // Downgrade these to stable versions compatible with your AGP
+    androidxActivityVersion = '1.9.3' // Was likely 1.11.0
+    androidxAppCompatVersion = '1.7.0'
+    androidxCoordinatorLayoutVersion = '1.2.0'
+    androidxCoreVersion = '1.15.0' // Was likely 1.17.0
+    androidxFragmentVersion = '1.8.5'
+
+    // Keep these if they exist, or leave as default
+    coreSplashScreenVersion = '1.0.1'
+    androidxWebkitVersion = '1.9.0'
+    junitVersion = '4.13.2'
+    androidxJunitVersion = '1.2.1'
+    androidxEspressoCoreVersion = '3.6.1'
+    cordovaAndroidVersion = '10.1.1'
+}

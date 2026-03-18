@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GroceryNet</string>
+    <string name="title_activity_main">GroceryNet</string>
+    <string name="package_name">com.grocerynet.app</string>
+    <string name="custom_url_scheme">com.grocerynet.app</string>
+</resources>
